@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionCallStackApp", "ExceptionCallStackApp\ExceptionCallStackApp.csproj", "{9BD78F18-73B3-4D42-8FA6-DF15A74EDC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD78F18-73B3-4D42-8FA6-DF15A74EDC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD78F18-73B3-4D42-8FA6-DF15A74EDC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD78F18-73B3-4D42-8FA6-DF15A74EDC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD78F18-73B3-4D42-8FA6-DF15A74EDC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96092D1E-CB2A-4E15-BDBA-6D6588A64D7A}
+	EndGlobalSection
+EndGlobal
